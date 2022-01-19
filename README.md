@@ -106,4 +106,4 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Aadhi000/Ajax)
+* Original [Repo](https://github.com/TG-chembanreju)
