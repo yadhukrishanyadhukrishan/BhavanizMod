@@ -161,7 +161,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥....🙈", quote=True)
+        msg = await message.reply("𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥 𝚎𝚕𝚕𝚊 𝚏𝚒𝚕𝚎𝚜𝚞𝚖 𝚊𝚍𝚒𝚌𝚑 𝚖𝚊𝚝𝚝𝚞𝚖....🙈", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
