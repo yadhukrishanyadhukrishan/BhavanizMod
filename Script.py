@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/IT_BUT_BOT'>🇮 🇹 _അണ്ണൻ</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 ♥️
+    START_TXT = """
 🔰𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝒕𝒉𝒆 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 📤𝑶𝑻𝑻 𝑴𝒐𝒗𝒊𝒆𝒔 𝒏𝒋𝒂𝒏 𝒏𝒊𝒏𝒈𝒂𝒍𝒌𝒌 𝒗𝒆𝒏𝒅𝒂 𝒎𝒐𝒗𝒊𝒆𝒔 𝒕𝒉𝒂𝒓𝒂𝒎 𝒆𝒏𝒕𝒆
 𝑶𝒘𝒏𝒆𝒓:<a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>🔰
 """
@@ -8,8 +7,7 @@ class script(object):
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
-╔═════❰ 𝕭𝖍𝖆𝖛𝖆𝖓𝖎ᗰOᗪᘔ ❱══⪼𒆜
-║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
+╔═════❰ 𝕭𝖍𝖆𝖛𝖆
 ║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/IT_BUT_BOT"> 🇮 🇹 _അണ്ണൻ </a>
 ║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>
 ║┣⪼ 𝙶𝚁𝙾𝚄𝙿  - <a href="https://t.me/crimebhavani4"> Crime malayalam moviz</a>
