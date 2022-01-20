@@ -10,7 +10,7 @@ class script(object):
 ║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
 ║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/IT_BUT_BOT"> 🇮 🇹 _അണ്ണൻ </a>
 ║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>
-║┣⪼ HELPER  - <a href="https://t.me/zinan00100"> ZINAN TECH </a>
+║┣⪼ 𝙶𝚁𝙾𝚄𝙿  - <a href="https://t.me/crimebhavani4"> Crime malayalam moviz</a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
