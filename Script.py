@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾{}
 𝑴𝒀 𝑵𝑨𝑴𝑬 , <a href='https://t.me/IT_BUT_BOT'>🇮 🇹 _അണ്ണൻ</a>, 𝑰𝒕'𝒔 𝑽𝒆𝒓𝒓𝒚 𝑬𝒂𝒔𝒚. 𝑱𝒖𝒂𝒕 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒅𝒎𝒊𝒏, 𝑻𝒉𝒂𝒕𝒔 𝑨𝒍𝒍, 𝑰'𝑳𝑳 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝑶𝑽𝑰𝑬𝑺 𝑻𝒉𝒆𝒓𝒆 🤓
-𝑯𝑬𝒀,<a href='http://t.me/IT_BUT_BOT?startgroup=true'>𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒏 𝑨𝒅𝒎𝒊𝒏 𝑻𝒉𝒆𝒓𝒆</a>
+𝑯𝑬𝒀,<a href='http://t.me/IT_BUT_BOT?startgroup=true'>📤𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑📤</a>
 ➖➖➖➖➖➖➖➖➖➖➖𝚆𝙴𝙻𝙲𝙾𝙼𝙴♥️ 𝚃𝙾 𝚃𝙷𝙴 𝚆𝙾𝚁𝙻𝙳 𝙾𝙵 📤𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂
 𝑶𝒘𝒏𝒆𝒓:<a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>🔰
 """
@@ -21,7 +21,7 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="NO SOURCE CODE YOU MOTHERFUCKER"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
