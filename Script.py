@@ -1,8 +1,8 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾{}
-𝑴𝒀 𝑵𝑨𝑴𝑬 , <a href='https://t.me/IT_BUT_BOT'>🇮 🇹 _അണ്ണൻ</a>, 𝑰𝒕'𝒔 𝑽𝒆𝒓𝒓𝒚 𝑬𝒂𝒔𝒚. 𝑱𝒖𝒂𝒕 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒅𝒎𝒊𝒏, 𝑻𝒉𝒂𝒕𝒔 𝑨𝒍𝒍, 𝑰'𝑳𝑳 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝑶𝑽𝑰𝑬𝑺 𝑻𝒉𝒆𝒓𝒆 🤓
+𝑴𝒀 𝑵𝑨𝑴𝑬 , <a href='https://t.me/IT_BUT_BOT'>🇮 🇹 _അണ്ണൻ</a>, 𝑰𝒕'𝒔 𝑽𝒆𝒓𝒓𝒚 𝑬𝒂𝒔𝒚.  𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒅𝒎𝒊𝒏, 𝑻𝒉𝒂𝒕𝒔 𝑨𝒍𝒍, 𝑰'𝑳𝑳 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝑶𝑽𝑰𝑬𝑺 𝑻𝒉𝒆𝒓𝒆 🤓
 𝑯𝑬𝒀,<a href='http://t.me/IT_BUT_BOT?startgroup=true'>📤𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑📤</a>
-➖➖➖➖➖➖➖➖➖➖➖𝚆𝙴𝙻𝙲𝙾𝙼𝙴♥️ 𝚃𝙾 𝚃𝙷𝙴 𝚆𝙾𝚁𝙻𝙳 𝙾𝙵 📤𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂
+➖➖➖➖➖➖➖➖➖➖➖𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐎𝐟 𝐎𝐓𝐓 𝐌𝐨𝐯𝐢𝐞𝐬
 𝑶𝒘𝒏𝒆𝒓:<a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>🔰
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -10,21 +10,21 @@ class script(object):
     ABOUT_TXT = """
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
 ╔═════❰ 𝕮𝖗𝖎𝖒𝖊
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/IT_BUT_BOT"> 🇮 🇹 _അണ്ണൻ </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>
-║┣⪼ 𝙶𝚁𝙾𝚄𝙿  - <a href="https://t.me/crimebhavani4"> Crime malayalam moviz</a>
-║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝚂𝙴𝚁𝚅𝙴𝚁 -  𝙷𝙴𝚁𝙾𝙺𝚄
-║┣⪼ 𝙱𝚄𝙸𝙻𝚃 𝚂𝚃𝙰𝚃𝚂 - v1.0.2 [ 𝙱𝙴𝚃𝙰 ]
+║┣⪼ 𝕭𝖔𝖙 𝕹𝖆𝖒𝖊 - <a href="https://t.me/IT_BUT_BOT"> 🇮 🇹 _അണ്ണൻ </a>
+║┣⪼ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 - <a href="https://t.me/pushpa_Reju"> TG-pushpareju </a>
+║┣⪼ 𝕲𝖗𝖔𝖚𝖕  - <a href="https://t.me/crimebhavani4"> Crime malayalam moviz</a>
+║┣⪼ 𝕷𝖎𝖇𝖗𝖆𝖗𝖞 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+║┣⪼ 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+║┣⪼ 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+║┣⪼ 𝕾𝖊𝖗𝖛𝖊𝖗 -  𝙷𝙴𝚁𝙾𝙺𝚄
+║┣⪼ 𝕭𝖚𝖎𝖑𝖉 𝖘𝖙𝖆𝖙𝖚𝖘 - v1.0.2 [ 𝖕𝖗𝖔 ]
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
+- ഡാ മൈരേ ഞാൻ ഓപ്പൺ അല്ല . 
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="NO SOURCE CODE YOU MOTHERFUCKER"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+<a href="https://t.me/pushpa_reju"> TEAM CRIME</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
