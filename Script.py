@@ -21,7 +21,7 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ഡാ മൈരേ ഞാൻ ഓപ്പൺ അല്ല . 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="NO SOURCE CODE YOU MOTHERFUCKER"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/updatechannel_forcrime"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/pushpa_reju"> TEAM CRIME</a>"""
