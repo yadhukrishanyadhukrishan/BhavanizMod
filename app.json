@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/TG-chembanreju/BhavanizMod",
-    "repository": "https://github.com/TG-chembanreju/BhavanizMod",
+    "repository": "https://github.com/yadhukrishanyadhukrishan/BhavanizMod",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
