@@ -39,7 +39,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ⚚', url='https://t.me/IT_BUT_BOT?startgroup=true')
             ],[
-            InlineKeyboardButton('𝐒𝐞𝐚𝐫𝐜𝐡', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('movis', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/updatechannel_forcrime')
             ],[
             InlineKeyboardButton('𝐇𝐞𝐥𝐩', callback_data='help'),
@@ -80,7 +80,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ⚚', url='https://t.me/RedFoxx_Bot?startgroup=true')
             ],[
-            InlineKeyboardButton('𝐒𝐞𝐚𝐫𝐜𝐡', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('mobis', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/updatechannel_forcrime')
             ],[
             InlineKeyboardButton('𝐇𝐞𝐥𝐩', callback_data='help'),
