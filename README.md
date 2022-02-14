@@ -3,7 +3,7 @@
  ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
 
 
-[![Deploy](https://telegra.ph/file/2eb9f6167d09883aff2cf.jpg)](https://heroku.com/deploy?template=https://github.com/yadhukrishanyadhukrishan/BhavanizMod.git)
+[![Deploy](https://telegra.ph/file/2eb9f6167d09883aff2cf.jpg)](https://heroku.com/deploy?template=https://github.com/yadhukrishanyadhukrishan/BhavanizMod)
 
 - [x] Auto Filter
 - [x] Manuel Filter
